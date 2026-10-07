@@ -1,0 +1,7 @@
+{
+  "app": "SourceFinder",
+  "versionName": "1.5",
+  "versionCode": 6,
+  "apk": "https://github.com/ljy7727/sourcefinder/releases/download/v1.5/SourceFinder.apk",
+  "notes": "4 线程并发采集；云端更新通道；设置显示版本号"
+}
